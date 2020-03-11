@@ -1,0 +1,2 @@
+please install haarcascades for openCV from this link and add in this folder otherwise it won't work
+link:https://github.com/opencv/opencv/tree/master/data/haarcascades
